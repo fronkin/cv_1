@@ -1,1 +1,1 @@
-https://fronkin.github.io/rsschool-cv/
+https://fronkin.github.io/gh-pages/
