@@ -1,1 +1,1 @@
-https://fronkin.github.io/gh-pages/
+https://fronkin.github.io/cv_1/
